@@ -1,0 +1,14 @@
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\bin\Debug\net10.0\AtomCCompiler.exe
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\bin\Debug\net10.0\AtomCCompiler.deps.json
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\bin\Debug\net10.0\AtomCCompiler.runtimeconfig.json
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\bin\Debug\net10.0\AtomCCompiler.dll
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\bin\Debug\net10.0\AtomCCompiler.pdb
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.AssemblyInfo.cs
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.dll
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\refint\AtomCCompiler.dll
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.pdb
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\AtomCCompiler.genruntimeconfig.cache
+C:\Users\Andrei\Documents\compiler\AtomCCompiler\obj\Debug\net10.0\ref\AtomCCompiler.dll
